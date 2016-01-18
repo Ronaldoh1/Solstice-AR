@@ -15,6 +15,38 @@
 		FB7F43A21C4D37EF00DE1E89 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB7F43A01C4D37EF00DE1E89 /* LaunchScreen.storyboard */; };
 		FB7F43AD1C4D37EF00DE1E89 /* Solstice_ARTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7F43AC1C4D37EF00DE1E89 /* Solstice_ARTests.m */; };
 		FB7F43B81C4D37EF00DE1E89 /* Solstice_ARUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = FB7F43B71C4D37EF00DE1E89 /* Solstice_ARUITests.m */; };
+		FB7F43C71C4D3EED00DE1E89 /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43C61C4D3EED00DE1E89 /* libz.tbd */; };
+		FB7F43C91C4D3EFA00DE1E89 /* libiconv.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43C81C4D3EFA00DE1E89 /* libiconv.tbd */; };
+		FB7F43CB1C4D3F0900DE1E89 /* libc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43CA1C4D3F0900DE1E89 /* libc++.tbd */; };
+		FB7F43CD1C4D3F1300DE1E89 /* libxml2.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43CC1C4D3F1300DE1E89 /* libxml2.tbd */; };
+		FB7F43CF1C4D3F1A00DE1E89 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43CE1C4D3F1A00DE1E89 /* AudioToolbox.framework */; };
+		FB7F43D11C4D3F2100DE1E89 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43D01C4D3F2100DE1E89 /* AVFoundation.framework */; };
+		FB7F43D31C4D3F2900DE1E89 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43D21C4D3F2800DE1E89 /* CFNetwork.framework */; };
+		FB7F43D51C4D3F3600DE1E89 /* CoreAudio.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43D41C4D3F3600DE1E89 /* CoreAudio.framework */; };
+		FB7F43D71C4D3F3E00DE1E89 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43D61C4D3F3E00DE1E89 /* CoreData.framework */; };
+		FB7F43D91C4D3F4E00DE1E89 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43D81C4D3F4E00DE1E89 /* CoreLocation.framework */; };
+		FB7F43DB1C4D3F5900DE1E89 /* CoreMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43DA1C4D3F5900DE1E89 /* CoreMedia.framework */; };
+		FB7F43DD1C4D3F6200DE1E89 /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43DC1C4D3F6200DE1E89 /* CoreMotion.framework */; };
+		FB7F43DF1C4D3F6A00DE1E89 /* CoreVideo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43DE1C4D3F6A00DE1E89 /* CoreVideo.framework */; };
+		FB7F43E11C4D3F7300DE1E89 /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43E01C4D3F7300DE1E89 /* CoreTelephony.framework */; };
+		FB7F43E31C4D3F8000DE1E89 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43E21C4D3F8000DE1E89 /* CoreGraphics.framework */; };
+		FB7F43E51C4D3F8D00DE1E89 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43E41C4D3F8D00DE1E89 /* Foundation.framework */; };
+		FB7F43E71C4D3F9500DE1E89 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43E61C4D3F9500DE1E89 /* MediaPlayer.framework */; };
+		FB7F43E91C4D3F9D00DE1E89 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43E81C4D3F9D00DE1E89 /* MessageUI.framework */; };
+		FB7F43EB1C4D3FA500DE1E89 /* OpenAL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43EA1C4D3FA500DE1E89 /* OpenAL.framework */; };
+		FB7F43ED1C4D3FAE00DE1E89 /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43EC1C4D3FAE00DE1E89 /* OpenGLES.framework */; };
+		FB7F43EF1C4D3FB700DE1E89 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43EE1C4D3FB700DE1E89 /* Security.framework */; };
+		FB7F43F11C4D3FBE00DE1E89 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43F01C4D3FBE00DE1E89 /* SystemConfiguration.framework */; };
+		FB7F43F31C4D3FC800DE1E89 /* Twitter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43F21C4D3FC800DE1E89 /* Twitter.framework */; };
+		FB7F43F51C4D3FD100DE1E89 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43F41C4D3FD100DE1E89 /* QuartzCore.framework */; };
+		FB7F43F71C4D3FD900DE1E89 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43F61C4D3FD900DE1E89 /* UIKit.framework */; };
+		FB7F43F91C4D3FE600DE1E89 /* AddressBook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43F81C4D3FE600DE1E89 /* AddressBook.framework */; };
+		FB7F43FB1C4D3FEF00DE1E89 /* AddressBookUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43FA1C4D3FEF00DE1E89 /* AddressBookUI.framework */; };
+		FB7F43FD1C4D3FF800DE1E89 /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43FC1C4D3FF800DE1E89 /* Social.framework */; };
+		FB7F43FF1C4D3FFF00DE1E89 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F43FE1C4D3FFF00DE1E89 /* MapKit.framework */; };
+		FB7F44051C4D416F00DE1E89 /* LayarSDKResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = FB7F44041C4D416F00DE1E89 /* LayarSDKResources.bundle */; };
+		FB7F44071C4D431200DE1E89 /* libMPOAuthMobile.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F44061C4D431200DE1E89 /* libMPOAuthMobile.a */; };
+		FB7F44091C4D432100DE1E89 /* LayarSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB7F44081C4D432100DE1E89 /* LayarSDK.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +83,38 @@
 		FB7F43B31C4D37EF00DE1E89 /* Solstice-ARUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Solstice-ARUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB7F43B71C4D37EF00DE1E89 /* Solstice_ARUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Solstice_ARUITests.m; sourceTree = "<group>"; };
 		FB7F43B91C4D37EF00DE1E89 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FB7F43C61C4D3EED00DE1E89 /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
+		FB7F43C81C4D3EFA00DE1E89 /* libiconv.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libiconv.tbd; path = usr/lib/libiconv.tbd; sourceTree = SDKROOT; };
+		FB7F43CA1C4D3F0900DE1E89 /* libc++.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libc++.tbd"; path = "usr/lib/libc++.tbd"; sourceTree = SDKROOT; };
+		FB7F43CC1C4D3F1300DE1E89 /* libxml2.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libxml2.tbd; path = usr/lib/libxml2.tbd; sourceTree = SDKROOT; };
+		FB7F43CE1C4D3F1A00DE1E89 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		FB7F43D01C4D3F2100DE1E89 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		FB7F43D21C4D3F2800DE1E89 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		FB7F43D41C4D3F3600DE1E89 /* CoreAudio.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreAudio.framework; path = System/Library/Frameworks/CoreAudio.framework; sourceTree = SDKROOT; };
+		FB7F43D61C4D3F3E00DE1E89 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		FB7F43D81C4D3F4E00DE1E89 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		FB7F43DA1C4D3F5900DE1E89 /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
+		FB7F43DC1C4D3F6200DE1E89 /* CoreMotion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMotion.framework; path = System/Library/Frameworks/CoreMotion.framework; sourceTree = SDKROOT; };
+		FB7F43DE1C4D3F6A00DE1E89 /* CoreVideo.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreVideo.framework; path = System/Library/Frameworks/CoreVideo.framework; sourceTree = SDKROOT; };
+		FB7F43E01C4D3F7300DE1E89 /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
+		FB7F43E21C4D3F8000DE1E89 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		FB7F43E41C4D3F8D00DE1E89 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		FB7F43E61C4D3F9500DE1E89 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		FB7F43E81C4D3F9D00DE1E89 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
+		FB7F43EA1C4D3FA500DE1E89 /* OpenAL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenAL.framework; path = System/Library/Frameworks/OpenAL.framework; sourceTree = SDKROOT; };
+		FB7F43EC1C4D3FAE00DE1E89 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
+		FB7F43EE1C4D3FB700DE1E89 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		FB7F43F01C4D3FBE00DE1E89 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		FB7F43F21C4D3FC800DE1E89 /* Twitter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Twitter.framework; path = System/Library/Frameworks/Twitter.framework; sourceTree = SDKROOT; };
+		FB7F43F41C4D3FD100DE1E89 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		FB7F43F61C4D3FD900DE1E89 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		FB7F43F81C4D3FE600DE1E89 /* AddressBook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBook.framework; path = System/Library/Frameworks/AddressBook.framework; sourceTree = SDKROOT; };
+		FB7F43FA1C4D3FEF00DE1E89 /* AddressBookUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBookUI.framework; path = System/Library/Frameworks/AddressBookUI.framework; sourceTree = SDKROOT; };
+		FB7F43FC1C4D3FF800DE1E89 /* Social.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Social.framework; path = System/Library/Frameworks/Social.framework; sourceTree = SDKROOT; };
+		FB7F43FE1C4D3FFF00DE1E89 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		FB7F44041C4D416F00DE1E89 /* LayarSDKResources.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = LayarSDKResources.bundle; path = ../../../Desktop/layar_sdk_ios_8_4_0_20150227_a84d093dcf00/LayarSDK.framework/LayarSDKResources.bundle; sourceTree = "<group>"; };
+		FB7F44061C4D431200DE1E89 /* libMPOAuthMobile.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libMPOAuthMobile.a; sourceTree = "<group>"; };
+		FB7F44081C4D432100DE1E89 /* LayarSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = LayarSDK.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +122,37 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FB7F43FF1C4D3FFF00DE1E89 /* MapKit.framework in Frameworks */,
+				FB7F43FD1C4D3FF800DE1E89 /* Social.framework in Frameworks */,
+				FB7F43FB1C4D3FEF00DE1E89 /* AddressBookUI.framework in Frameworks */,
+				FB7F43F91C4D3FE600DE1E89 /* AddressBook.framework in Frameworks */,
+				FB7F43F71C4D3FD900DE1E89 /* UIKit.framework in Frameworks */,
+				FB7F43F51C4D3FD100DE1E89 /* QuartzCore.framework in Frameworks */,
+				FB7F43F31C4D3FC800DE1E89 /* Twitter.framework in Frameworks */,
+				FB7F43F11C4D3FBE00DE1E89 /* SystemConfiguration.framework in Frameworks */,
+				FB7F43EF1C4D3FB700DE1E89 /* Security.framework in Frameworks */,
+				FB7F43ED1C4D3FAE00DE1E89 /* OpenGLES.framework in Frameworks */,
+				FB7F43EB1C4D3FA500DE1E89 /* OpenAL.framework in Frameworks */,
+				FB7F43E91C4D3F9D00DE1E89 /* MessageUI.framework in Frameworks */,
+				FB7F44071C4D431200DE1E89 /* libMPOAuthMobile.a in Frameworks */,
+				FB7F43E71C4D3F9500DE1E89 /* MediaPlayer.framework in Frameworks */,
+				FB7F43E51C4D3F8D00DE1E89 /* Foundation.framework in Frameworks */,
+				FB7F43E31C4D3F8000DE1E89 /* CoreGraphics.framework in Frameworks */,
+				FB7F43E11C4D3F7300DE1E89 /* CoreTelephony.framework in Frameworks */,
+				FB7F43DF1C4D3F6A00DE1E89 /* CoreVideo.framework in Frameworks */,
+				FB7F43DD1C4D3F6200DE1E89 /* CoreMotion.framework in Frameworks */,
+				FB7F43DB1C4D3F5900DE1E89 /* CoreMedia.framework in Frameworks */,
+				FB7F43D91C4D3F4E00DE1E89 /* CoreLocation.framework in Frameworks */,
+				FB7F43D71C4D3F3E00DE1E89 /* CoreData.framework in Frameworks */,
+				FB7F44091C4D432100DE1E89 /* LayarSDK.framework in Frameworks */,
+				FB7F43D51C4D3F3600DE1E89 /* CoreAudio.framework in Frameworks */,
+				FB7F43D31C4D3F2900DE1E89 /* CFNetwork.framework in Frameworks */,
+				FB7F43D11C4D3F2100DE1E89 /* AVFoundation.framework in Frameworks */,
+				FB7F43CF1C4D3F1A00DE1E89 /* AudioToolbox.framework in Frameworks */,
+				FB7F43CD1C4D3F1300DE1E89 /* libxml2.tbd in Frameworks */,
+				FB7F43CB1C4D3F0900DE1E89 /* libc++.tbd in Frameworks */,
+				FB7F43C91C4D3EFA00DE1E89 /* libiconv.tbd in Frameworks */,
+				FB7F43C71C4D3EED00DE1E89 /* libz.tbd in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -109,6 +204,7 @@
 				FB7F439E1C4D37EF00DE1E89 /* Assets.xcassets */,
 				FB7F43A01C4D37EF00DE1E89 /* LaunchScreen.storyboard */,
 				FB7F43A31C4D37EF00DE1E89 /* Info.plist */,
+				FB7F43C51C4D399000DE1E89 /* Frameworks */,
 				FB7F43921C4D37EF00DE1E89 /* Supporting Files */,
 			);
 			path = "Solstice-AR";
@@ -117,6 +213,7 @@
 		FB7F43921C4D37EF00DE1E89 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				FB7F44041C4D416F00DE1E89 /* LayarSDKResources.bundle */,
 				FB7F43931C4D37EF00DE1E89 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -138,6 +235,44 @@
 				FB7F43B91C4D37EF00DE1E89 /* Info.plist */,
 			);
 			path = "Solstice-ARUITests";
+			sourceTree = "<group>";
+		};
+		FB7F43C51C4D399000DE1E89 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FB7F44081C4D432100DE1E89 /* LayarSDK.framework */,
+				FB7F44061C4D431200DE1E89 /* libMPOAuthMobile.a */,
+				FB7F43FE1C4D3FFF00DE1E89 /* MapKit.framework */,
+				FB7F43FC1C4D3FF800DE1E89 /* Social.framework */,
+				FB7F43FA1C4D3FEF00DE1E89 /* AddressBookUI.framework */,
+				FB7F43F81C4D3FE600DE1E89 /* AddressBook.framework */,
+				FB7F43F61C4D3FD900DE1E89 /* UIKit.framework */,
+				FB7F43F41C4D3FD100DE1E89 /* QuartzCore.framework */,
+				FB7F43F21C4D3FC800DE1E89 /* Twitter.framework */,
+				FB7F43F01C4D3FBE00DE1E89 /* SystemConfiguration.framework */,
+				FB7F43EE1C4D3FB700DE1E89 /* Security.framework */,
+				FB7F43EC1C4D3FAE00DE1E89 /* OpenGLES.framework */,
+				FB7F43EA1C4D3FA500DE1E89 /* OpenAL.framework */,
+				FB7F43E81C4D3F9D00DE1E89 /* MessageUI.framework */,
+				FB7F43E61C4D3F9500DE1E89 /* MediaPlayer.framework */,
+				FB7F43E41C4D3F8D00DE1E89 /* Foundation.framework */,
+				FB7F43E21C4D3F8000DE1E89 /* CoreGraphics.framework */,
+				FB7F43E01C4D3F7300DE1E89 /* CoreTelephony.framework */,
+				FB7F43DE1C4D3F6A00DE1E89 /* CoreVideo.framework */,
+				FB7F43DC1C4D3F6200DE1E89 /* CoreMotion.framework */,
+				FB7F43DA1C4D3F5900DE1E89 /* CoreMedia.framework */,
+				FB7F43D81C4D3F4E00DE1E89 /* CoreLocation.framework */,
+				FB7F43D61C4D3F3E00DE1E89 /* CoreData.framework */,
+				FB7F43D41C4D3F3600DE1E89 /* CoreAudio.framework */,
+				FB7F43D21C4D3F2800DE1E89 /* CFNetwork.framework */,
+				FB7F43D01C4D3F2100DE1E89 /* AVFoundation.framework */,
+				FB7F43CE1C4D3F1A00DE1E89 /* AudioToolbox.framework */,
+				FB7F43CC1C4D3F1300DE1E89 /* libxml2.tbd */,
+				FB7F43CA1C4D3F0900DE1E89 /* libc++.tbd */,
+				FB7F43C81C4D3EFA00DE1E89 /* libiconv.tbd */,
+				FB7F43C61C4D3EED00DE1E89 /* libz.tbd */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -245,6 +380,7 @@
 			files = (
 				FB7F43A21C4D37EF00DE1E89 /* LaunchScreen.storyboard in Resources */,
 				FB7F439F1C4D37EF00DE1E89 /* Assets.xcassets in Resources */,
+				FB7F44051C4D416F00DE1E89 /* LayarSDKResources.bundle in Resources */,
 				FB7F439D1C4D37EF00DE1E89 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -410,9 +546,19 @@
 		FB7F43BD1C4D37EF00DE1E89 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD)";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Solstice-AR",
+				);
 				INFOPLIST_FILE = "Solstice-AR/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Solstice-AR",
+				);
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Solstice.Solstice-AR";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -421,9 +567,19 @@
 		FB7F43BE1C4D37EF00DE1E89 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD)";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Solstice-AR",
+				);
 				INFOPLIST_FILE = "Solstice-AR/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Solstice-AR",
+				);
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Solstice.Solstice-AR";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
